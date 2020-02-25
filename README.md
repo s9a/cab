@@ -1,18 +1,8 @@
 # `cab`
 
-### [Hop in :p](https://s9a.github.io/cab)
-
 [cab.css](cab.css) is a smart simple fast CSS color system using NYC area codes to make 24 accessible color [combos](https://s9a.github.io/cab/#combos)
 
-### `cab` is
-
-local like [bae](https://github.com/s9a/bae)
-
-coded like [sea](https://github.com/s9a/sea)
-
-open like [WTFPL](https://choosealicense.com/licenses/wtfpl/)
-
-### [demo](https://s9a.github.io/cab/#am)
+### [hop in](https://s9a.github.io/cab)
 
 ```html
 <li class="cab-am cab-ave">...
@@ -28,3 +18,29 @@ open like [WTFPL](https://choosealicense.com/licenses/wtfpl/)
 <li class="cab-am cab-heat">...
 <li class="cab-am cab-flag">...
 ```
+
+or in `pm`
+
+```html
+<li class="cab-pm cab-ave">...
+<li class="cab-pm cab-wave">...
+<li class="cab-pm cab-sun">...
+<li class="cab-pm cab-sup">...
+<li class="cab-pm cab-rush">...
+<li class="cab-pm cab-gush">...
+<li class="cab-pm cab-fresh">...
+<li class="cab-pm cab-curb">...
+<li class="cab-pm cab-river">...
+<li class="cab-pm cab-park">...
+<li class="cab-pm cab-heat">...
+<li class="cab-pm cab-flag">...
+```
+
+### `cab` is
+
+local like [bae](https://github.com/s9a/bae)
+
+coded like [sea](https://github.com/s9a/sea)
+
+open like [WTFPL](https://choosealicense.com/licenses/wtfpl/)
+
