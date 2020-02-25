@@ -1,8 +1,20 @@
 # `cab`
 
+### [hop in](https://s9a.github.io/cab)
+
 [cab.css](cab.css) is a smart simple fast CSS color system using NYC area codes to make 24 accessible color [combos](https://s9a.github.io/cab/#combos)
 
-### [hop in](https://s9a.github.io/cab)
+### `cab` is
+
+local like [bae](https://github.com/s9a/bae)
+
+coded like [sea](https://github.com/s9a/sea)
+
+open like [WTFPL](https://choosealicense.com/licenses/wtfpl/)
+
+24hr :yellow_heart:
+
+### [`am` demo](https://s9a.github.io/cab/#am)
 
 ```html
 <li class="cab-am cab-ave">...
@@ -19,7 +31,7 @@
 <li class="cab-am cab-flag">...
 ```
 
-or in `pm`
+### [`pm` demo](https://s9a.github.io/cab/#pm)
 
 ```html
 <li class="cab-pm cab-ave">...
@@ -35,12 +47,3 @@ or in `pm`
 <li class="cab-pm cab-heat">...
 <li class="cab-pm cab-flag">...
 ```
-
-### `cab` is
-
-local like [bae](https://github.com/s9a/bae)
-
-coded like [sea](https://github.com/s9a/sea)
-
-open like [WTFPL](https://choosealicense.com/licenses/wtfpl/)
-
