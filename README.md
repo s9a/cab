@@ -1,6 +1,8 @@
 # `cab`
 
-### [Hop in](https://s9a.github.io/cab) :taxi:
+:taxi:
+
+### [Hop in.](https://s9a.github.io/cab)
 
 [cab.css](cab.css) is a smart simple fast CSS color system using NYC area codes to make 24 accessible color [combos](https://s9a.github.io/cab/#combos)
 
