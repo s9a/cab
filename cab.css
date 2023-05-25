@@ -1,19 +1,18 @@
-/*
-https://github.com/s9a/cab
-*/
-.cab-wet:not(.cab-dry),
-.cab-wet :not(.cab-dry) { background: none; color: inherit }
-.cab-am { background: var(--cab-oil) !important; color: var(--cab-ink) !important }
-.cab-pm { background: var(--cab-ink) !important; color: var(--cab-oil) !important }
-.cab-ave { --cab-oil: snow; --cab-ink: #212; --cab-ratio: 17.33 }
-.cab-sun { --cab-oil: yellow; --cab-ink: #212; --cab-ratio: 16.69 }
-.cab-sup { --cab-oil: yellow; --cab-ink: #718; --cab-ratio: 8.8 }
-.cab-curb { --cab-oil: #cab; --cab-ink: #212; --cab-ratio: 8.56 }
-.cab-river { --cab-oil: #bff; --cab-ink: #718; --cab-ratio: 8.49 }
-.cab-fresh { --cab-oil: chartreuse; --cab-ink: #646; --cab-ratio: 6.27 }
-.cab-rush { --cab-oil: snow; --cab-ink: #917; --cab-ratio: 7.51 }
-.cab-gush { --cab-oil: snow; --cab-ink: #929; --cab-ratio: 6.67 }
-.cab-park { --cab-oil: #bff; --cab-ink: #332; --cab-ratio: 11.51 }
-.cab-wave { --cab-oil: snow; --cab-ink: #347; --cab-ratio: 9.08 }
-.cab-heat { --cab-oil: coral; --cab-ink: #212; --cab-ratio: 7.17 }
-.cab-flag { --cab-oil: coral; --cab-ink: navy; --cab-ratio: 6.4 }
+/* opensource color https://s9a.page/cab */
+html { --cab-oil: seashell; --cab-ink: #212 }
+.cab-ez a { color: inherit; outline-color: currentColor }
+.cab-ave { --cab-oil: moccasin; --cab-ink: #212 }
+.cab-sun { --cab-oil: #ec0; --cab-ink: #212 }
+.cab-sup { --cab-oil: papayawhip; --cab-ink: #718 }
+.cab-curb { --cab-oil: #cab; --cab-ink: #212 }
+.cab-river { --cab-oil: powderblue; --cab-ink: #718 }
+.cab-fresh { --cab-oil: chartreuse; --cab-ink: #646 }
+.cab-rush { --cab-oil: mistyrose; --cab-ink: #917 }
+.cab-gush { --cab-oil: seashell; --cab-ink: #929 }
+.cab-park { --cab-oil: powderblue; --cab-ink: #332 }
+.cab-wave { --cab-oil: seashell; --cab-ink: #347 }
+.cab-heat { --cab-oil: hotpink; --cab-ink: #212 }
+.cab-flag { --cab-oil: salmon; --cab-ink: indigo }
+.cab-am.cab-am { background-color: var(--cab-oil); color: var(--cab-ink) }
+.cab-pm.cab-pm { background-color: var(--cab-ink); color: var(--cab-oil) }
+::selection { background: blueviolet; color: wheat }
